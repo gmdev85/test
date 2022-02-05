@@ -1,0 +1,15 @@
+
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<div class="row">
+    {% for post in posts %}
+        <div class="col-4" style="border: black 1px">
+        <h2>{{ post.title }}</h2>
+        <h6>{{ post.created_at }}</h6>
+        <img src="{{post.photo.url}}">
+        <a href="/posts/{{ post.slug }}/">{{ post.title }}</a>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}
