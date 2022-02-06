@@ -1,0 +1,12 @@
+
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<div class="row">
+        <div class="col-12">
+        <h2>{{ post.title_en }}</h2>
+        <h6>{{ post.created_at }}</h6>
+        <img style="height: 450px; width: 450px" src="{{post.photo.url}}">
+        </div>
+</div>
+{% endblock %}

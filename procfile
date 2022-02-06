@@ -1,2 +1,2 @@
-release: python3 manage.py migrate
-web: gunicorn articles.wsgi
+web: aldryn-django web
+migrate: aldryn-django migrate

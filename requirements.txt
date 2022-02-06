@@ -1,2 +1,8 @@
 django==2.2.3
 pillow
+django-storages
+boto3
+django-environ
+psycopg2 ==2.8.4
+django-heroku
+django-tinymce
