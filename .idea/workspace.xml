@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9314837-82fb-4ed2-8b43-bfd19ba6de3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env-local" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons-dev/.empty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons-dev/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-addons/addon.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-addons/aldryn_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-addons/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-django/addon.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-django/aldryn_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-django/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-sso/addon.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-sso/aldryn_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/aldryn-sso/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/articles/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/private/.empty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.empty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643971313971</updated>
       <workItem from="1643971315130" duration="13148000" />
-      <workItem from="1644164750964" duration="5318000" />
+      <workItem from="1644164750964" duration="6274000" />
     </task>
     <servers />
   </component>
@@ -149,6 +117,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="841" y="241" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644093952274" />
+    <state x="362" y="440" width="607" height="526" key="find.popup" timestamp="1644170964412">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="362" y="440" width="607" height="526" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1644170964412" />
     <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1644093918386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
