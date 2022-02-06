@@ -1,9 +1,17 @@
 *.pyc
-env/
 .terraform
-.env
 staticfiles/
 postgres-data/
+
+# Environments
+.env
+.env*
 .idea/
-.idea
 .venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+files/
+log/
