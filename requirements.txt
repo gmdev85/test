@@ -6,3 +6,4 @@ django-environ
 psycopg2 ==2.8.4
 django-heroku
 django-tinymce
+gunicorn
