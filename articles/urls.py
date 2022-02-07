@@ -17,8 +17,10 @@ from django.contrib import admin
 from django.urls import path, include
 from django.shortcuts import redirect
 from blog.views import posts, post_detail
+from django.conf.urls import url
 
 urlpatterns = [
+    url(r'^jet/', include('jet.urls', 'jet')),
     path('admin/', admin.site.urls),
     path('', lambda request: redirect('posts/', permanent=False)),
     path('posts/', posts, name="posts"),
