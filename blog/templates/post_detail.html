@@ -14,7 +14,7 @@
          <h3 class="mb-0">{{ post.title_en }}</h3>
          <div class="mb-1 text-muted">{{ post.created_at }}</div>
         <h6>{{ post.content_en | safe }}</h6>
-        <img src="{{post.photo.url}}">
+        <img style="width: 100%" src="{{post.photo.url}}">
         </div>
 </div>
 {% endblock %}
